@@ -1,2 +1,2 @@
 # ShootDude
-Jeux Projet
+Jeu Projet
